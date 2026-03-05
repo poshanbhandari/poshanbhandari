@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/poshanbhandari/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+- **[STIG Implementation (PowerShell)](https://github.com/poshanbhandari/stig-remidation/)**
 
 ## 🚨 Threat Hunting and Security Operations
 
